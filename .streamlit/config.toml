@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#00ADA9"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#D9D6D7"
+textColor = "474143"  # White text on the main pages
+font = "sans serif"
+
+[sidebar]
+backgroundColor = "affc41"
+textColor = "#223a8b"  # Text in the sidebar will be #223a8b

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webcam Surveillance</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: #1a2a3a; /* Navy blue background */
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            color: #1abc9c; /* Teal accents */
+        }
+        header p {
+            font-size: 1.1rem;
+            color: #95a5a6;
+        }
+        .video-container {
+            width: 80%;
+            max-width: 800px;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            background: #2c3e50; /* Darker navy blue for the video container */
+        }
+        .video-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #95a5a6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Live Webcam Surveillance</h1>
+        <p>Monitor live footage directly from your browser</p>
+    </header>
+    <div class="video-container">
+        <img src="{{ url_for('video_feed') }}" alt="Webcam Feed">
+    </div>
+    <footer>
+        <p>Powered by Flask & OpenCV</p>
+    </footer>
+</body>
+</html>

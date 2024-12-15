@@ -1,0 +1,256 @@
+Timestamp,Action Detected,Male Count,Female Count,Location
+2024-12-01 02:00:53,Lone female detected,0,1,afraz
+2024-12-01 02:04:51,Lone female detected,0,1,1
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:17:22,Violence against a woman,1,1,afraz
+2024-12-01 02:26:23,Violence against a woman,3,2,110
+2024-12-01 02:28:06,Lone female detected,1,1,2
+2024-12-01 02:32:18,Violence against a woman,1,1,1
+2024-12-01 02:38:02,Violence against a woman,1,1,afraz
+2024-12-01 12:34:41,Violence against a woman,1,1,1
+2024-12-01 12:43:48,Lone female detected,1,1,Unknown
+2024-12-01 12:43:59,Lone female detected,0,1,Unknown
+2024-12-01 12:44:19,Violence against a woman,2,1,Unknown
+2024-12-01 12:44:27,Lone female detected,0,1,Unknown
+2024-12-01 12:44:57,Lone female detected,0,1,Unknown
+2024-12-01 12:47:32,Lone female detected,1,1,1
+2024-12-01 12:53:51,Lone female detected,0,1,1
+2024-12-01 13:00:26,Violence against a woman,0,1,1
+2024-12-01 13:02:40,Lone female detected,0,1,1
+2024-12-01 13:17:14,Violence against a woman,2,2,1
+2024-12-01 13:17:24,Lone female detected,0,1,1
+2024-12-01 13:17:31,Lone female detected,0,1,1
+2024-12-01 13:17:38,Lone female detected,0,1,1
+2024-12-01 13:17:45,Lone female detected,0,1,1
+2024-12-01 13:17:51,Lone female detected,0,1,1
+2024-12-01 13:17:57,Lone female detected,0,1,1
+2024-12-01 13:18:03,Lone female detected,0,1,1
+2024-12-01 13:26:59,Violence against a woman,3,2,1
+2024-12-01 13:27:08,Lone female detected,0,1,1
+2024-12-01 13:27:14,Lone female detected,0,1,1
+2024-12-01 13:27:21,Lone female detected,0,1,1
+2024-12-01 13:27:27,Lone female detected,0,1,1
+2024-12-01 16:12:59,Violence against a woman,14,2,Bhandup
+2024-12-01 16:13:06,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:09,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:13,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:17,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:29,Lone female detected,4,1,Bhandup
+2024-12-01 16:13:34,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:40,Lone female detected,0,1,Bhandup
+2024-12-01 16:13:58,Lone female detected,0,1,Bhandup
+2024-12-01 16:14:07,Lone female detected,0,1,Bhandup
+2024-12-04 13:40:45,Violence against a woman,8,2,bhandup
+2024-12-04 13:41:00,Violence against a woman,1,1,bhandup
+2024-12-04 13:41:05,Lone female detected,0,1,bhandup
+2024-12-04 13:41:18,Lone female detected,0,1,bhandup
+2024-12-04 13:41:26,Lone female detected,0,1,bhandup
+2024-12-04 13:41:31,Lone female detected,0,1,bhandup
+2024-12-04 13:41:49,Lone female detected,2,1,bhandup
+2024-12-04 13:41:53,Lone female detected,0,1,bhandup
+2024-12-04 13:42:04,Violence against a woman,4,1,bhandup
+2024-12-04 13:42:08,Lone female detected,0,1,bhandup
+2024-12-04 14:11:50,Violence against a woman,3,2,VIT
+2024-12-04 14:12:18,Lone female detected,0,1,VIT
+2024-12-04 14:12:23,Lone female detected,0,1,VIT
+2024-12-04 14:12:28,Lone female detected,0,1,VIT
+2024-12-04 14:12:38,Violence against a woman,2,1,VIT
+2024-12-04 14:12:44,Lone female detected,0,1,VIT
+2024-12-04 14:12:57,Lone female detected,2,1,VIT
+2024-12-04 14:13:03,Lone female detected,0,1,VIT
+2024-12-04 15:00:32,Violence against a woman,3,1,vidyalankar
+2024-12-04 15:02:16,Lone female detected,0,1,vidyalankar
+2024-12-04 15:14:12,Lone female detected,0,1,Unknown
+2024-12-04 15:15:57,Lone female detected,0,1,vit
+2024-12-04 15:16:14,Lone female detected,0,1,vit
+2024-12-04 15:16:22,Lone female detected,0,1,vit
+2024-12-04 15:16:28,Lone female detected,0,1,vit
+2024-12-04 15:16:36,Lone female detected,0,1,vit
+2024-12-04 15:16:42,Lone female detected,0,1,vit
+2024-12-04 18:49:22,Violence against a woman,4,1,test
+2024-12-04 18:49:33,Lone female detected,0,1,test
+2024-12-04 18:49:44,Violence against a woman,1,1,test
+2024-12-04 18:49:53,Lone female detected,0,1,test
+2024-12-04 18:50:00,Lone female detected,0,1,test
+2024-12-04 18:50:12,Lone female detected,0,1,test
+2024-12-04 18:50:26,Violence against a woman,2,1,test
+2024-12-04 18:50:33,Lone female detected,1,1,test
+2024-12-04 18:50:40,Lone female detected,0,1,test
+2024-12-04 18:50:51,Lone female detected,1,1,test
+2024-12-04 18:51:00,Lone female detected,0,1,test
+2024-12-04 18:51:07,Lone female detected,0,1,test
+2024-12-04 18:51:16,Lone female detected,3,1,test
+2024-12-04 18:51:29,Violence against a woman,1,1,test
+2024-12-04 18:51:38,Lone female detected,0,1,test
+2024-12-04 18:51:48,Lone female detected,0,1,test
+2024-12-04 18:51:56,Lone female detected,2,1,test
+2024-12-04 18:52:03,Lone female detected,0,1,test
+2024-12-04 18:52:09,Lone female detected,0,1,test
+2024-12-04 18:52:18,Violence against a woman,1,1,test
+2024-12-04 18:52:26,Lone female detected,1,1,test
+2024-12-04 18:52:38,Violence against a woman,1,1,test
+2024-12-04 19:51:04,Lone female detected,0,1,test2
+2024-12-04 19:51:15,Violence against a woman,1,1,test2
+2024-12-04 19:51:26,Lone female detected,0,1,test2
+2024-12-04 19:51:36,Lone female detected,1,1,test2
+2024-12-04 19:51:44,Lone female detected,0,1,test2
+2024-12-04 19:51:54,Lone female detected,1,1,test2
+2024-12-04 19:51:59,Violence against a woman,1,1,test2
+2024-12-04 19:52:06,Lone female detected,0,1,test2
+2024-12-04 19:52:10,Lone female detected,0,1,test2
+2024-12-04 19:52:17,Lone female detected,1,1,test2
+2024-12-04 19:52:23,Lone female detected,0,1,test2
+2024-12-04 21:57:40,Violence against a woman,2,1,Unknown
+2024-12-04 21:58:04,Lone female detected,0,1,Unknown
+2024-12-04 21:58:15,Lone female detected,1,1,Unknown
+2024-12-04 21:58:19,Lone female detected,0,1,Unknown
+2024-12-04 21:58:25,Lone female detected,1,1,Unknown
+2024-12-04 22:01:31,Violence against a woman,7,2,helloWorld
+2024-12-04 22:01:46,Violence against a woman,4,1,helloWorld
+2024-12-04 22:01:53,Lone female detected,0,1,helloWorld
+2024-12-04 22:01:57,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:02,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:14,Lone female detected,0,1,helloWorld
+2024-12-04 22:02:19,Lone female detected,0,1,helloWorld
+2024-12-04 23:43:53,Lone female detected,0,1,Unknown
+2024-12-05 11:35:33,Violence against a woman,6,1,Unknown
+2024-12-05 14:32:47,Lone female detected,1,1,12
+2024-12-05 14:33:01,Lone female detected,0,1,12
+2024-12-05 17:12:41,Violence against a woman,2,1,12
+2024-12-05 17:12:50,Violence against a woman,2,1,12
+2024-12-05 17:13:04,Violence against a woman,1,1,12
+2024-12-05 17:13:12,Lone female detected,0,1,12
+2024-12-06 10:22:20,Lone female detected,3,1,aditya
+2024-12-06 17:14:22,Violence against a woman,3,1,aditya
+2024-12-06 20:16:56,Lone female detected,0,1,adi
+2024-12-06 20:17:02,Lone female detected,0,1,adi
+2024-12-06 20:17:05,Lone female detected,0,1,adi
+2024-12-06 20:17:07,Lone female detected,0,1,adi
+2024-12-06 20:17:10,Lone female detected,0,1,adi
+2024-12-06 20:17:12,Lone female detected,0,1,adi
+2024-12-06 20:17:16,Lone female detected,0,1,adi
+2024-12-06 20:17:20,Lone female detected,0,1,adi
+2024-12-06 20:17:39,Violence against a woman,1,1,adi
+2024-12-06 20:17:42,Lone female detected,0,1,adi
+2024-12-06 20:17:45,Lone female detected,0,1,adi
+2024-12-06 20:17:56,Lone female detected,0,1,adi
+2024-12-06 20:18:02,Lone female detected,3,1,adi
+2024-12-06 20:18:11,Lone female detected,3,1,adi
+2024-12-06 20:18:20,Violence against a woman,3,1,adi
+2024-12-06 20:18:25,Lone female detected,1,1,adi
+2024-12-06 20:18:29,Lone female detected,0,1,adi
+2024-12-06 20:18:32,Lone female detected,0,1,adi
+2024-12-06 20:18:35,Lone female detected,0,1,adi
+2024-12-06 20:18:38,Lone female detected,0,1,adi
+2024-12-06 22:21:21,Violence against a woman,1,1,test
+2024-12-06 22:21:38,Lone female detected,0,1,test
+2024-12-06 22:21:41,Lone female detected,0,1,test
+2024-12-06 22:21:45,Lone female detected,0,1,test
+2024-12-06 22:21:51,Lone female detected,0,1,test
+2024-12-06 22:21:58,Lone female detected,3,1,test
+2024-12-06 22:22:03,Lone female detected,3,1,test
+2024-12-06 22:22:07,Lone female detected,3,1,test
+2024-12-06 22:22:11,Violence against a woman,3,1,test
+2024-12-06 22:22:20,Lone female detected,0,1,test
+2024-12-06 22:22:23,Lone female detected,0,1,test
+2024-12-06 22:22:26,Lone female detected,0,1,test
+2024-12-06 22:22:28,Lone female detected,0,1,test
+2024-12-06 22:42:55,Lone female detected,0,1,testing
+2024-12-06 22:43:01,Lone female detected,0,1,testing
+2024-12-06 22:43:03,Lone female detected,0,1,testing
+2024-12-06 22:43:06,Lone female detected,0,1,testing
+2024-12-06 22:43:08,Lone female detected,0,1,testing
+2024-12-06 22:43:10,Lone female detected,0,1,testing
+2024-12-06 22:43:13,Lone female detected,0,1,testing
+2024-12-06 22:43:20,Lone female detected,0,1,testing
+2024-12-06 22:43:23,Lone female detected,0,1,testing
+2024-12-06 22:43:28,Lone female detected,0,1,testing
+2024-12-06 22:43:35,Lone female detected,0,1,testing
+2024-12-06 22:43:42,Lone female detected,0,1,testing
+2024-12-06 22:43:50,Violence against a woman,1,1,testing
+2024-12-06 22:44:08,Lone female detected,3,1,testing
+2024-12-06 22:44:11,Violence against a woman,3,1,testing
+2024-12-06 22:44:16,Lone female detected,2,1,testing
+2024-12-06 22:44:22,Violence against a woman,3,1,testing
+2024-12-06 22:44:26,Lone female detected,3,1,testing
+2024-12-06 22:44:33,Lone female detected,3,1,testing
+2024-12-06 23:07:28,Lone female detected,1,1,shahad
+2024-12-06 23:07:32,Lone female detected,2,1,shahad
+2024-12-06 23:07:37,Violence against a woman,3,1,shahad
+2024-12-06 23:07:41,Violence against a woman,3,1,shahad
+2024-12-06 23:07:45,Violence against a woman,4,2,shahad
+2024-12-06 23:07:59,Lone female detected,0,1,shahad
+2024-12-06 23:08:02,Lone female detected,0,1,shahad
+2024-12-06 23:08:06,Lone female detected,0,1,shahad
+2024-12-06 23:08:08,Lone female detected,0,1,shahad
+2024-12-06 23:08:12,Lone female detected,0,1,shahad
+2024-12-06 23:08:14,Lone female detected,0,1,shahad
+2024-12-06 23:08:23,Lone female detected,3,1,shahad
+2024-12-06 23:08:27,Lone female detected,3,1,shahad
+2024-12-06 23:08:30,Lone female detected,1,1,shahad
+2024-12-06 23:14:48,Lone female detected,3,1,ui
+2024-12-06 23:14:52,Violence against a woman,3,1,ui
+2024-12-06 23:14:55,Lone female detected,3,1,ui
+2024-12-06 23:14:59,Lone female detected,3,1,ui
+2024-12-06 23:15:02,Violence against a woman,3,1,ui
+2024-12-06 23:15:34,Violence against a woman,1,1,ui
+2024-12-06 23:15:36,Lone female detected,0,1,ui
+2024-12-06 23:15:40,Lone female detected,0,1,ui
+2024-12-06 23:15:45,Lone female detected,0,1,ui
+2024-12-06 23:15:48,Lone female detected,0,1,ui
+2024-12-06 23:15:54,Lone female detected,3,1,ui
+2024-12-06 23:15:59,Lone female detected,3,1,ui
+2024-12-06 23:16:03,Lone female detected,3,1,ui
+2024-12-06 23:16:07,Violence against a woman,3,1,ui
+2024-12-06 23:22:44,Violence against a woman,5,1,let
+2024-12-06 23:23:09,Violence against a woman,1,1,let
+2024-12-06 23:23:22,Violence against a woman,1,1,let
+2024-12-06 23:23:46,Violence against a woman,1,1,let
+2024-12-06 23:23:49,Lone female detected,1,1,let
+2024-12-06 23:23:54,Violence against a woman,2,1,let
+2024-12-06 23:23:56,Lone female detected,2,1,let
+2024-12-06 23:23:58,Violence against a woman,3,1,let
+2024-12-06 23:24:15,Violence against a woman,1,1,let
+2024-12-06 23:32:55,Violence against a woman,2,1,qw
+2024-12-06 23:33:03,Lone female detected,2,1,qw
+2024-12-06 23:33:06,Lone female detected,2,1,qw
+2024-12-06 23:33:08,Lone female detected,2,1,qw
+2024-12-06 23:33:10,Lone female detected,1,1,qw
+2024-12-06 23:33:13,Violence against a woman,1,1,qw
+2024-12-06 23:33:15,Violence against a woman,1,1,qw
+2024-12-06 23:33:25,Lone female detected,2,1,qw
+2024-12-06 23:33:33,Lone female detected,0,1,qw
+2024-12-06 23:34:13,Lone female detected,0,1,qw
+2024-12-06 23:34:15,Lone female detected,0,1,qw
+2024-12-06 23:34:21,Lone female detected,0,1,qw
+2024-12-06 23:34:23,Violence against a woman,2,1,qw
+2024-12-06 23:34:33,Violence against a woman,0,1,qw
+2024-12-06 23:34:34,Lone female detected,0,1,qw
+2024-12-06 23:34:37,Violence against a woman,2,1,qw
+2024-12-06 23:34:39,Violence against a woman,2,1,qw
+2024-12-06 23:34:40,Violence against a woman,1,1,qw
+2024-12-06 23:34:49,Lone female detected,2,1,qw
+2024-12-06 23:35:10,Violence against a woman,2,1,qw
+2024-12-06 23:35:16,Violence against a woman,8,1,qw
+2024-12-06 23:35:19,Violence against a woman,2,1,qw
+2024-12-06 23:35:23,Lone female detected,0,1,qw
+2024-12-06 23:35:25,Lone female detected,0,1,qw
+2024-12-06 23:35:27,Violence against a woman,2,1,qw
+2024-12-06 23:35:30,Violence against a woman,2,2,qw
+2024-12-06 23:35:32,Violence against a woman,2,1,qw
+2024-12-07 12:09:38,Violence against a woman,1,1,trial
+2024-12-07 12:10:04,Lone female detected,0,1,trial
+2024-12-07 12:10:15,Lone female detected,0,1,trial
+2024-12-07 12:10:31,Lone female detected,0,1,trial
+2024-12-07 12:10:39,Lone female detected,0,1,trial
+2024-12-07 12:10:47,Lone female detected,0,1,trial
+2024-12-07 12:10:55,Lone female detected,0,1,trial
